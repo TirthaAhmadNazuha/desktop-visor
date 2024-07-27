@@ -1,0 +1,7 @@
+{
+    "name": "myservice",
+    "command": "cat cli/index.js",
+    "cwd": "~/self_works/desktop_visor",
+    "autostart": true,
+    "autorestart": true
+}
